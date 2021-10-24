@@ -9,7 +9,7 @@ This web application was built using the following programming language, and too
 
   Clone the repo
    ```sh
-   git clon git@github.com:missile11011/book_search.git
+   git clone git@github.com:missile11011/book_search.git
    ```
 ## Contact
 Misael Reyes - misaelrey@gmail.com
